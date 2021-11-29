@@ -28,7 +28,7 @@ The Weekly Project Description PDF Link
 https://github.com/msc-creative-computing/p-comp-week-1-labs-orionmel/blob/main/Kexin_Mei-Weekly%20Project.pdf
 
 
-!!!Tips1:If you would like to see my answers about lab in more detail, please check the pdf documentation on my home page
+!!!Tips1: If you would like to see my answers about lab in more detail, please check the pdf documentation on my home page
 --------------------------------------------------------------------------------------------------------------------------------------
-!!!Tips2:My pdf document link is partially incorrect, please paste the link directly to your browser, or click on the different week content link below
+!!!Tips2: My pdf document link is partially incorrect, please paste the link directly to your browser, or click on the different week content link Above
 --------------------------------------------------------------------------------------------------------------------------------------

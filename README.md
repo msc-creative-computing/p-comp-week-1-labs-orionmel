@@ -25,7 +25,7 @@ https://github.com/msc-creative-computing/p-comp-week-1-labs-orionmel/tree/main/
 
 The Weekly Project Description PDF Link
 ---------------------------------------
-
+https://github.com/msc-creative-computing/p-comp-week-1-labs-orionmel/blob/main/Portfolio%20Of%20Weekly%20%20Work.pdf
 
 
 !!!Tips1: If you would like to see my answers about lab in more detail, please check the pdf documentation on my home page

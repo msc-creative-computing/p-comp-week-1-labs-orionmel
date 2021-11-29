@@ -29,3 +29,4 @@ https://github.com/msc-creative-computing/p-comp-week-1-labs-orionmel/tree/main/
 
 The Weekly Project Description PDF Link
 ---------------------------------------
+https://github.com/msc-creative-computing/p-comp-week-1-labs-orionmel/blob/main/Kexin_Mei-Weekly%20Project.pdf
